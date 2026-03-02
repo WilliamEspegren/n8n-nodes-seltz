@@ -1,0 +1,14 @@
+{
+	"node": "n8n-nodes-seltz.seltz",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["AI", "Miscellaneous"],
+	"resources": {
+		"credentialDocumentation": [
+			{ "url": "https://github.com/WilliamEspegren/n8n-nodes-seltz#credentials" }
+		],
+		"primaryDocumentation": [
+			{ "url": "https://github.com/WilliamEspegren/n8n-nodes-seltz" }
+		]
+	}
+}

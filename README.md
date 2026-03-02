@@ -1,6 +1,6 @@
 # n8n-nodes-seltz
 
-This is an n8n community node for [Seltz](https://seltz.ai/) — the Web Knowledge API built for AI agents. It lets you search the live web inside your n8n workflows.
+This is an n8n community node for [Seltz](https://seltz.ai/?utm_source=n8n-nodes-seltz&utm_medium=readme) — the Web Knowledge API built for AI agents. It lets you search the live web inside your n8n workflows.
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
@@ -26,7 +26,7 @@ Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes
 
 You need a Seltz API key to use this node.
 
-1. Sign up at [seltz.ai](https://seltz.ai/).
+1. Sign up at [seltz.ai](https://seltz.ai/?utm_source=n8n-nodes-seltz&utm_medium=readme).
 2. Copy your API key from the dashboard.
 3. In n8n, create a new **Seltz API** credential and paste the key.
 
@@ -37,5 +37,5 @@ Tested with n8n version 1.x. No known compatibility issues.
 ## Resources
 
 - [n8n community nodes documentation](https://docs.n8n.io/integrations/community-nodes/)
-- [Seltz API documentation](https://seltz.ai/)
+- [Seltz API documentation](https://seltz.ai/?utm_source=n8n-nodes-seltz&utm_medium=readme)
 - [GitHub repository](https://github.com/WilliamEspegren/n8n-nodes-seltz)

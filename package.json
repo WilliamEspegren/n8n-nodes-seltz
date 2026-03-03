@@ -8,7 +8,8 @@
 	"license": "MIT",
 	"homepage": "https://seltz.ai/",
 	"author": {
-		"name": "William Espegren"
+		"name": "William Espegren",
+		"email": "espegren.w@gmail.com"
 	},
 	"repository": {
 		"type": "git",
